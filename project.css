@@ -1,0 +1,32 @@
+#content {
+	background-color:#CCCCCC;
+	width: 350px;
+	border: thin solid #F00;
+	margin:0 auto;
+}
+#content form p .stylebox {
+	width: 300px;
+}
+#content form p {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bold;
+}
+#content form p {
+	font-size: 12px;
+	font-style: normal;
+	color: #FFF;
+}
+form p .stylebox {
+	font-weight: normal;
+	width: 100px;
+}
+#content {
+	background-color: #000;
+}
+#content form p {
+}
+#content form p {
+	width: 100px;
+}
+
+

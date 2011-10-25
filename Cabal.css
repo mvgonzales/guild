@@ -1,0 +1,89 @@
+#box {
+	margin-top: -20px;
+	background: black;
+	padding-left: 0px;
+	margin-right: 200px;
+	padding-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 0px;
+	}
+#box ul li {
+	display: inline;
+	font-size: 25px;
+	margin: 0px 10px;
+	}
+#box ul li:hover 
+	{
+	text-decoration: underline;	
+	
+	}
+
+#box a {
+	color: white;
+	text-decoration: none;
+	}
+#image {
+	margin-left: 250px;
+	margin-top: 100px;
+}
+#image2 {
+	margin-left: 343px;
+	
+	
+}
+#login {
+	margin-left: -343px;
+	color: orange;
+	margin-top: -942px;
+	border-style: solid;
+	border-width: medium;
+	border-color:#000;
+	margin-right: 750px;
+	background-color: #333;
+}
+#login h1 {
+	color: white;
+	margin-left: 75px;
+	font-size:20px;
+}
+#login form {
+	margin-left: 40px;
+}
+
+
+#moderator {
+	margin-left: -343px;
+	background-color:#666666;
+	border-style: solid;
+	border-width: medium;
+	border-color:#000;
+	margin-right: 750px;
+	background-color: #333;
+	margin-top: 20px;
+	padding-bottom: 217px;
+}
+#moderator p {
+	color: #FFF;
+	margin-left: 160px;
+	margin-top: -70px;
+	white-space: 20px;
+}
+#moderator h2 {
+	color: ORANGE;
+	margin-left: 75px;
+	}
+#moderator img {
+	margin-left: 10px;
+	
+}
+#tables {
+	margin-left: 50px;
+	margin-right: -100px;
+	margin-top: -490px;
+	padding: 0px 50px;
+}
+#tables td {
+	margin-left: -50px;
+}
+
+	
